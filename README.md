@@ -6,5 +6,5 @@ represented in this survey, through a combination of both narrative text and dat
 information on the competition, data, and prizes can be found on:
 https://www.kaggle.com/c/kaggle-survey-2019/data
 
-The objectives of Assignment to explore the survey data to understand (1) the nature of women’s
+The objectives of this Assignment is to explore the survey data to understand (1) the nature of women’s
 representation in Data Science and Machine Learning and (2) the effects of education on income level.
